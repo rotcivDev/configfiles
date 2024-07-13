@@ -1,0 +1,13 @@
+import = [
+    "~/.config/alacritty/themes/themes/tokyo-night.toml"
+]
+
+[window]
+opacity = 0.8
+startup_mode = "Fullscreen"
+decorations = "None"
+dynamic_padding = true
+
+[font]
+normal = { family = "monospace", style = "Regular"}
+size = 14
